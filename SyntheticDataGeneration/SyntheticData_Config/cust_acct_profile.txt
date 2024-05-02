@@ -1,0 +1,597 @@
+{
+		"START_DATE": "2018-02-01",
+		"END_DATE": "2020-03-01",
+		"CUSTOMER_DDA_PROFILE1": [{
+				"crdt_dbt_cd": "Credit",
+				"stmt_desc": ["Pay/Salary FROM Bank1111111"],
+				"txn_amt": [7777],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": 1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 2,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [15, 15]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["ALLIBankINSURE      152018961020118337"],
+				"txn_amt": [30.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 4,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": [" LOAN PAYMENT 4564621023931374 "],
+				"txn_amt": [440.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 3,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BankInternet Banking BPAY Credit Cards 888266"],
+				"txn_amt": [600.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 5,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			}
+		],
+		"CUSTOMER_DDA_PROFILE2": [{
+				"crdt_dbt_cd": "Credit",
+				"stmt_desc": ["Pay/Salary FROM Bank2222222"],
+				"txn_amt": [8888],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": 1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 1,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["ALINTA ENERGY SYDNEY"],
+				"txn_amt": [190, 220],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [90, 90]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BankINTERNET BANKING BPAY WATER SERVICE PT {1111111}"],
+				"txn_amt": [60, 70],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [60, 60]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BELONG BROADBAND SVCS xx9346 BankBPAY"],
+				"txn_amt": [65],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["NETFLIX COM MELBOURNE"],
+				"txn_amt": [12.99],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 4,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["Spotify P0E5456822 SYDNEY"],
+				"txn_amt": [7.49],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 4,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BankInternet Banking METROPOLE PROPERTY"],
+				"txn_amt": [1965.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 2,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BankATM                                 DROUIN 19 PRINCES WAY    DROUIN       VI"],
+				"txn_amt": [40, 60, 80, 100, 120, 140, 160, 200, 250, 300, 500],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 2,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [14, 14]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BankInternet Banking BPAY Credit Cards 888266"],
+				"txn_amt": [600.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 5,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			}
+		],
+		"CUSTOMER_PCA_PROFILE1": [{
+				"crdt_dbt_cd": "Credit",
+				"stmt_desc": ["PAYMENT RECEIVED THANK YOU"],
+				"txn_amt": [600.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": 1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "6012",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["COLES 0654 EPPING Grocery Stores and Supermarkets card used", "EFTPOS                                  WOOLWORTHS      1262 GLENROSE NSW     AU"],
+				"txn_amt": [200.55, 250.35],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "5411",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [7, 7]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["CALTEX ELSTERNWICK ELSTERNWICK"],
+				"txn_amt": [30.25, 50.35],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "5983",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [3, 8]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["Public Transport Victoria", "MYKI EASTMALV RS EMV MALVERN EAST", "MYKI SYNDAL RS  SYN GLEN WAVERLEYVICAU"],
+				"txn_amt": [30, 45],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "4111",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [7, 7]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["ALINTA ENERGY SYDNEY"],
+				"txn_amt": [190, 220],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "4900",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [90, 90]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BankINTERNET BANKING BPAY ENERGYAUSTRALIA PT {1111111}"],
+				"txn_amt": [60, 70],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "4900",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [90, 90]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["OPTUS BILLING SVCS xx9346 BankBPAY"],
+				"txn_amt": [35],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "4814",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			}
+		],
+		"CUSTOMER_PCA_PROFILE2": [{
+				"crdt_dbt_cd": "Credit",
+				"stmt_desc": ["PAYMENT RECEIVED THANK YOU"],
+				"txn_amt": [600.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": 1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "6012",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["COLES 0654 EPPING Grocery Stores and Supermarkets card used", "EFTPOS                                  WOOLWORTHS      1262 GLENROSE NSW     AU"],
+				"txn_amt": [40.55, 50.35],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "5411",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [3, 3]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["CALTEX ELSTERNWICK ELSTERNWICK"],
+				"txn_amt": [30.25, 50.35],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "5983",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [20, 20]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["Public Transport Victoria", "MYKI EASTMALV RS EMV MALVERN EAST", "MYKI SYNDAL RS  SYN GLEN WAVERLEYVICAU"],
+				"txn_amt": [150],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "4111",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["Payment to MCC-Rates BPAY code: 626275"],
+				"txn_amt": [120.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 2,
+				"mcc": "9311",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [365, 365]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["Payment to VICROADS - BPAY code: 216291"],
+				"txn_amt": [220.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 2,
+				"mcc": "4111",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [365, 365]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BYPA INSURANCE      152018961020118347"],
+				"txn_amt": [30.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "DDA",
+				"txn_options_index": 4,
+				"mcc": "4900",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["TELSTRA BILLING SVCS xx9346 BankBPAY"],
+				"txn_amt": [20],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 2,
+				"mcc": "4814",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [15, 15]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["APPLE ITUNES"],
+				"txn_amt": [5.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "5733",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["INDIHOTS RESTAURANT DOCKLANDS"],
+				"txn_amt": [12.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "5812",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [4, 4]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["EFTPOS                                  SUBWAY WARRAGUL          WARRAGUL     VI"],
+				"txn_amt": [18.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "5814",
+				"max_txn_count": 2147483647,
+				"start_date": "2020-02-01",
+				"frequency_in_days": [5, 5]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["Flexischools*Acc Topup    1300 361 769"],
+				"txn_amt": [400.00],
+				"subsequent_txn_amt_change_%": 1.5,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 4,
+				"mcc": "8211",
+				"max_txn_count": 3,
+				"frequency_in_days": [90, 90]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["DBS*Austswim Australia    Mulgrave"],
+				"txn_amt": [84.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 3,
+				"mcc": "7997",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["BankMOBILE BANKING PAYMENT 409636       TO Blakes music"],
+				"txn_amt": [60.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "PCA",
+				"txn_options_index": 4,
+				"mcc": "7911",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			}
+		],
+		"CUSTOMER_ILS_PROFILE1": [{
+				"crdt_dbt_cd": "Credit",
+				"stmt_desc": ["LOAN PAYMENT FROM McLure"],
+				"txn_amt": [150.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": 1,
+				"prd_tp_cd": "ILS",
+				"txn_options_index": 7,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [90, 90]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["INTEREST"],
+				"txn_amt": [177.88],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "ILS",
+				"txn_options_index": 7,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [150, 150]
+			},
+			{
+				"crdt_dbt_cd": "Debit",
+				"stmt_desc": ["LOAN ADMINISTRATION CHARGE"],
+				"txn_amt": [5.00],
+				"subsequent_txn_amt_change_%": 0,
+				"txn_sign": -1,
+				"prd_tp_cd": "ILS",
+				"txn_options_index": 7,
+				"mcc": "",
+				"max_txn_count": 2147483647,
+				"frequency_in_days": [30, 30]
+			}
+		],
+		"DEBIT_INFO": {
+			"crdt_dbt_cd": "Debit",
+			"options": [{
+					"txn_purpose": "Fees/Interest",
+					"txn_desc": ["SETOFF ADJ", "INTEREST", "WV SVC/ACK", "SV/ACKEEP"],
+					"txn_src_sys": [""],
+					"txn_channel": ["N/A"],
+					"txn_method": ["N/A"],
+					"stmt_desc": ["ACCOUNT SERVICING FEE"]
+				},
+				{
+					"txn_purpose": "Obtain Cash",
+					"txn_desc": ["BankATM", "CRD-"],
+					"txn_src_sys": ["ATM", "TLG"],
+					"txn_channel": ["ATM", "Branch"],
+					"txn_method": ["Bank", "Cash"],
+					"stmt_desc": ["BankATM DROUIN 19 PRINCES WAY DROUIN VI", "CARD ENTRY AT DROUIN BRANCH"]
+				},
+				{
+					"txn_purpose": "Pay a Bill",
+					"txn_desc": ["INTER BANK"],
+					"txn_src_sys": ["PCB"],
+					"txn_channel": ["Internet Banking"],
+					"txn_method": ["BPAY"],
+					"stmt_desc": ["BankINTERNET BANKING BPAY DEPT IABP {123456}", "BankINTERNET BANKING BPAY ENERGYAUSTRALIA PT {1111111}", "BankINTERNET BANKING BPAY BAW BAW SC RATES {999999"]
+				},
+				{
+					"txn_purpose": "Purchase",
+					"txn_desc": ["POS"],
+					"txn_src_sys": ["POS", "", "POSA", "POSI"],
+					"txn_channel": ["POS"],
+					"txn_method": ["Card Dip", "Card Swipe", "Unclassified", "Contactless", "E-Commerce"],
+					"stmt_desc": ["EFTPOS DROUIN THAI RESTAURN DROUIN VIC AU", "EFTPOS WOOLWORTHS 3287 WARRAGUL VIC AU", "EFTPOS MKS SPICES`N THINGS DANDENONG VI", "ALINTA ENERGY SYDNEY", "BankINTERNET BANKING PAYMENT 123456 TO Shakespeare BankAccess Advantage", "MYKI EASTMALV RS EMV MALVERN EAST", "CALTEX ELSTERNWICK ELSTERNWICK", "GROCERY WINE SPIRITS", "MYKI PAYMENT"]
+				},
+				{
+					"txn_purpose": "Transfer to Other Party",
+					"txn_desc": ["INTER BANK", "M-BANKING"],
+					"txn_src_sys": ["PCB", "MPB"],
+					"txn_channel": ["Internet Banking", "Mobile Banking"],
+					"txn_method": ["Pay Anyone"],
+					"stmt_desc": ["BankINTERNET BANKING FUNDS TFER TRANSFER 123456 TO 0133102345678901"]
+				},
+				{
+					"txn_purpose": "Transfer to Self",
+					"txn_desc": ["INTER BANK", "M-BANKING"],
+					"txn_src_sys": ["PCB", "MPB"],
+					"txn_channel": ["Internet Banking", "Mobile Banking"],
+					"txn_method": ["Funds Transfer"],
+					"stmt_desc": ["BankINTERNET BANKING FUNDS TFER TRANSFER 123456 TO 0133102445678901"]
+				}, {
+					"txn_purpose": "Fees/Interest",
+					"txn_desc": ["SETOFF ADJ", "INTEREST", "WV SVC/ACK", "SV/ACKEEP"],
+					"txn_src_sys": [""],
+					"txn_channel": ["N/A"],
+					"txn_method": ["N/A"],
+					"stmt_desc": ["ACCOUNT SERVICING FEE"]
+				},
+				{
+					"txn_purpose": "Unclassified",
+					"txn_desc": ["BankMOBILE", "BankINTERN"],
+					"txn_src_sys": ["PCB", "MPB"],
+					"txn_channel": ["Mobile Banking", "Unclassified"],
+					"txn_method": ["Unclassified"],
+					"stmt_desc": ["BankINTERNET BANKING FUNDS TFER TRANSFER 123456 TO 0133102545678901"]
+				},
+				{
+					"txn_purpose": "Fees/Interest",
+					"txn_desc": ["FEE PMT", "FEE"],
+					"txn_src_sys": [""],
+					"txn_channel": ["N/A"],
+					"txn_method": ["N/A"],
+					"stmt_desc": ["LOAN ADMINISTRATION CHARGE"]
+				}
+			]
+		},
+		"CREDIT_INFO": {
+			"crdt_dbt_cd": "Credit",
+			"options": [{
+					"txn_purpose": "Fees/Interest",
+					"txn_desc": ["SETOFF ADJ", "INTEREST", "WV SVC/ACK", "SV/ACKEEP"],
+					"txn_src_sys": [""],
+					"txn_channel": ["N/A"],
+					"txn_method": ["N/A"],
+					"stmt_desc": ["CREDIT INTEREST PAID"]
+				},
+				{
+					"txn_purpose": "Deposit Funds",
+					"txn_desc": ["CASH/CHQS"],
+					"txn_src_sys": ["REM"],
+					"txn_channel": ["Unclassified"],
+					"txn_method": ["Cash/Cheque"],
+					"stmt_desc": ["DEPOSIT"]
+				},
+				{
+					"txn_purpose": "Receive Payment",
+					"txn_desc": ["TRANSFER", "M-BANKING"],
+					"txn_src_sys": ["MPB", "MTS"],
+					"txn_channel": ["Mobile Banking", "N/A"],
+					"txn_method": ["N/A"],
+					"stmt_desc": ["TRANSFER FROM PAPA JOHN TRANSFER", "BankM-BANKING FUNDS TFER TRANSFER 601291 TO 0133131234567890"]
+				},
+				{
+					"txn_purpose": "Repay Debt",
+					"txn_desc": ["LOAN PYMT"],
+					"txn_src_sys": [""],
+					"txn_channel": ["Internet Banking", "N/A", "BankTransactive"],
+					"txn_method": ["Funds Transfer", "Direct Credit", "N/A"],
+					"stmt_desc": ["LOAN PAYMENT J J ADAMS LOAN REPAYMENT", "LOAN PAYMENT TRANSFER 123456 FROM 888888888888"]
+				},
+				{
+					"txn_purpose": "Transfer to Other Party",
+					"txn_desc": ["INTER BANK"],
+					"txn_src_sys": ["ILS"],
+					"txn_channel": ["Unclassified"],
+					"txn_method": ["Pay Anyone"],
+					"stmt_desc": ["BankINTERNET BANKING FUNDS TFER RINS RINS"]
+				},
+				{
+					"txn_purpose": "Transfer to Self",
+					"txn_desc": ["TRANSFER"],
+					"txn_src_sys": [""],
+					"txn_channel": ["Internet Banking"],
+					"txn_method": ["Funds Transfer"],
+					"stmt_desc": ["BankINTERNET BANKING FUNDS TFER TRANSFER 9999999 FROM 123456789"]
+				},
+				{
+					"txn_purpose": "Unclassified",
+					"txn_desc": ["PAYMENT FR"],
+					"txn_src_sys": ["PCB"],
+					"txn_channel": ["Unclassified"],
+					"txn_method": ["Unclassified"],
+					"stmt_desc": ["PAYMENT FROM finserv"]
+				},
+				{
+					"txn_purpose": "Repay Debt",
+					"txn_desc": ["LOAN PYMT"],
+					"txn_src_sys": [""],
+					"txn_channel": ["Internet Banking"],
+					"txn_method": ["Pay Anyone"],
+					"stmt_desc": ["LOAN PAYMENT FROM McDermott"]
+				}
+			]
+		}
+}
