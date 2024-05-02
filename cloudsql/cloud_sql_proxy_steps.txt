@@ -1,0 +1,14 @@
+ACG Lab - https://learn.acloud.guru/course/gcp-certified-professional-data-engineer/learn/b404afd2-7ff2-5d28-27e0-e9e04743d738/ee9ac484-6289-4af6-933b-7f5c2757dd49/lab/ee9ac484-6289-4af6-933b-7f5c2757dd49
+
+Steps to be run from Compute VM
+================================
+
+sudo apt-get update
+sudo apt-get install wget
+sudo apt install default-mysql-client
+
+wget https://dl.google.com/cloudsql/cloud_sql_proxy.linux.amd64 -O cloud_sql_proxy
+chmod +x cloud_sql_proxy
+./cloud_sql_proxy -instances=playground-s-11-52f6ecc0:us-central1:forumdb=tcp:3306 -credential_file=playground-s-11-52f6ecc0-0ced188f2352.json &
+
+mysql --user=root --host=127.0.01 --password
