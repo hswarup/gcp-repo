@@ -1,0 +1,44 @@
+{		"CUST_ACCT": {
+			"911111111": [{
+				"acct_num": "411111118",
+				"acct_id": "111111",
+				"profile": "CUSTOMER_A_PROFILE1"
+			}, {
+				"acct_num": "4111222233334444",
+				"acct_id": "7070707",
+				"profile": "CUSTOMER_B_PROFILE1"
+			}],
+			"922222221": [{
+				"acct_num": "422222228",
+				"acct_id": "222222",
+				"profile": "CUSTOMER_A_PROFILE2"
+			}, {
+				"acct_num": "4222333344445555",
+				"acct_id": "8080808",
+				"profile": "CUSTOMER_B_PROFILE2"
+			}, {
+				"acct_num": "4444555566667777",
+				"acct_id": "444444",
+				"profile": "CUSTOMER_C_PROFILE1"
+			}],
+			"933333331": [{
+				"acct_num": "433333338",
+				"acct_id": "333333",
+				"profile": "CUSTOMER_A_PROFILE2"
+			}, {
+				"acct_num": "4333444455556666",
+				"acct_id": "9090909",
+				"profile": "CUSTOMER_B_PROFILE1"
+			}],
+			"944444441": [{
+				"acct_num": "433333339",
+				"acct_id": "555555",
+				"profile": "CUSTOMER_A_PROFILE1"
+			}],
+			"955555551": [{
+				"acct_num": "433333339",
+				"acct_id": "555555",
+				"profile": "CUSTOMER_A_PROFILE2"
+			}]
+		}
+}
